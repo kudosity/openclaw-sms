@@ -72,7 +72,8 @@ openclaw send --channel kudosity-sms --to +61478038915 --text "hello from opencl
 2. **Settings → API Keys → Create Key** for the API key.
 3. **Numbers → Lease a virtual number** for the sender, or use a number you already own.
 
-API docs: <https://developers.kudosity.com>
+Full plugin guide: <https://developers.kudosity.com/docs/openclaw-plugin>
+Kudosity API docs: <https://developers.kudosity.com>
 
 ## Webhook utilities
 
