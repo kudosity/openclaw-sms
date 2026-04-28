@@ -1,11 +1,11 @@
-# @kudosity/openclaw-sms
+# kudosity-openclaw-sms
 
 Cloud SMS channel plugin for [OpenClaw](https://openclaw.ai), powered by the [Kudosity v2 API](https://developers.kudosity.com). Send and receive SMS from your OpenClaw agent with a real Australian (or international) sender number, no app required on the recipient's phone.
 
 ## Install
 
 ```bash
-openclaw plugins install @kudosity/openclaw-sms
+openclaw plugins install kudosity-openclaw-sms
 openclaw gateway restart
 ```
 

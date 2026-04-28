@@ -1,5 +1,5 @@
 {
-  "name": "@kudosity/openclaw-sms",
+  "name": "kudosity-openclaw-sms",
   "version": "1.0.0",
   "description": "Kudosity SMS channel plugin for OpenClaw",
   "main": "index.ts",
@@ -65,7 +65,7 @@
       "order": 90
     },
     "install": {
-      "npmSpec": "@kudosity/openclaw-sms",
+      "npmSpec": "kudosity-openclaw-sms",
       "localPath": "",
       "defaultChoice": "npm"
     }
